@@ -22,3 +22,12 @@ nums = [2, 7, 11, 15], target = 9
 
 **Output:**  
 [0, 1]
+
+
+## HASHTables
+Hash Table are like flip the switches of the array.
+For inserting a value ... You use 
+### Table [number_to_be_inserted] = index_at_which_you_wanna_insert
+And for finding a value ... You use 
+### Index_you_wanna_find= Table[value_to_found]
+
