@@ -1,0 +1,3 @@
+I will be storing all the files in notion so here is the web live version if someone needs ...
+https://www.notion.so/21471bf57b698038ada9ee4b7cec2f7b?v=21471bf57b6981fca899000cd02e71fc&source=copy_link
+
